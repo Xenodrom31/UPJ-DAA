@@ -1,0 +1,7 @@
+1. Deklarasikan diameter, tinggi
+2. Mencari jari _ jari dengan cara diameter dibagi 2
+3. Masukkan phi= 3.14
+4. Masukkan jari - jari = 5 / 2  
+5. Masukkan tinggi = 4
+6. Hitunglah volume kerucut dengan menggunakan rumus volume = 1/3 * phi * r**2 * t
+7. Tampilkan volume kerucut
