@@ -1,1 +1,5 @@
-
+1. Deklarasikan luas, alas dan tinggi
+2. Masukkan alas = 25
+3. Masukkan tinggi = 30
+4. Hitung luas dengan menggunakan rumus luas = (alas * tinggi) / 2
+5. Tampilkan luas
