@@ -1,0 +1,48 @@
+Function prime
+    Set p to empty list
+    For i from 1 to 100
+        Set c to 0
+        For j from 1 to i
+            If i mod j == 0
+                Increment c by 1
+        If c == 2
+            Append i to p
+    Return p
+
+Function prime_factor(x)
+    Set f to empty dictionary
+    Set primes to result of prime()
+    For i in primes
+        Set c to 0
+        While x mod i == 0
+            Set x to x / i
+            Increment c by 1
+        If c != 0
+            Set f[i] to c
+    Return f
+
+Function elim_prime(x, y)
+    Set f to empty dictionary
+    For i in x
+        If i in y
+            Set f[i] to max(x[i], y[i])
+        Else 
+            Set f[i] to x[i]
+    For i in y 
+        If i not in x 
+            Set f[i] to y[i]
+    Return f
+
+Function lcm(x)
+    Set h to 1
+    For i in x 
+        Set h to h * (i ** x[i])
+    Return h
+
+Set a to 3 
+Set b to 4 
+
+Set pf1 to result of prime_factor(a)
+Set pf2 to result of prime_factor(b)
+Print(pf1, pf2)
+Print(lcm(elim_prime(pf1, pf2)))
