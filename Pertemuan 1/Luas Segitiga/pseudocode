@@ -1,1 +1,4 @@
-
+Set alas to 25
+Set tinggi to 30
+Set luas to (alas multiplied by tinggi) divided by 2
+Print "Luas Segitiga = ", luas
