@@ -1,0 +1,5 @@
+Set phi to 3.14
+Set r to 3
+Set t to 5
+Set volume to phi multiplied by (r raised to the power of 2) multiplied by t
+Print "Volume tabung = ", volume
