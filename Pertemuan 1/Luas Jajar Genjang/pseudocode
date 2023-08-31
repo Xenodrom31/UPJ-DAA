@@ -1,0 +1,4 @@
+Set panjang to 5
+Set tinggi to 3
+Set luas to panjang multiplied by tinggi
+Print "Luas jajargenjang = ", luas
