@@ -1,1 +1,19 @@
+Function pemindahan(x, y, z)
+    Set z to x
+    Set x to y
+    Set y to z
+    Set z to empty string
+    Print "Piring 1 = ", x
+    Print "Piring 2 = ", y
+    Print "Piring 3 = ", z
 
+Set piring_1 to "Manggis"
+Set piring_2 to "Pisang"
+Set piring_3 to empty string
+
+Print "Sebelum diubah"
+Print "Piring 1 = ", piring_1
+Print "Piring 2 = ", piring_2
+Print "Piring 3 = ", piring_3
+
+Call pemindahan(piring_1, piring_2, piring_3)
