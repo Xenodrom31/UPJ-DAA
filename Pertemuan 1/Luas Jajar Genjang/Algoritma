@@ -1,1 +1,5 @@
-
+1. Deklarasikan panjang, tinggi dan luas
+2. Masukkan panjang = 5
+3. Masukkan tinggi = 3
+4. Hitung luas dengan menggunakan rumus luas = panjang * tinggi
+5. Tampilkan luas
