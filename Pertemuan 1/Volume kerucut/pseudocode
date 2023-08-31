@@ -1,0 +1,5 @@
+Set phi to 3.14
+Set r to 5/2
+Set t to 4
+Set volume to (1/3) * phi * r^2 * t
+Print "Volume kerucut = ", volume
