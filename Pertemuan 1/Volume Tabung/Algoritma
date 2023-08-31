@@ -1,0 +1,6 @@
+1. Deklarasikan phi, jari - jari, tinggi volume  
+2. Masukkan phi = 3.14
+3. Masukkan jari - jari = 3
+4. Masukkan tinggi = 5
+5. Hitung volume tabung dengan menggunakan rumus = phi * r**2 * t
+6. Tampilkan volume tabung
