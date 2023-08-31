@@ -1,1 +1,14 @@
-
+1. Deklarasikan x dan y
+2. Masukkan x = 3
+3. Masukkan y = 4
+4. Membuat sebuah fungsi yang bisa mendapatkan nilai – nilai prima
+5. Mencari bilangan prima yang dapat membagi bilangan pertama dengan membaginya menggunakan bilangan prima hingga habis
+6. Simpan hasil pembagi dalam suatu variabel
+7. Mencari bilangan prima yang dapat membagi bilangan kedua dengan membaginya menggunakan bilangan prima hingga habis
+8. Simpan hasil pembagi dalam suatu variabel
+9. Membandingkan hasil pembagi bilangan prima pertama dengan hasil pembagi bilangan prima kedua
+10. Jika terdapat bilangan prima yang sama maka kita cari yang paling banyak kuantitasnya lalu kita simpan
+11. Jika terdapat bilangan prima yang sama dan jumlahnya sama maka kita ambil salah satu saja lalu kita simpan
+12. Jika terdapat bilangan prima pertama yang tidak ada pada bilangan prima kedua maka langsung kita simpan
+13. Jika terdapat bilangan prima kedua yang tidak ada pada bilangan prima pertama maka langsung kita simpan
+14. Kalikan semua bilangan prima yang sudah kita simpan
